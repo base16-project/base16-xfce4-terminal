@@ -1,5 +1,11 @@
 # tinted-xfce4-terminal
 
+**Deprecation Notice**: tinted-xfce4-terminal and all the other Tinted
+Theming terminal template repositories have moved to a single [Tinted
+Terminal](https://github.com/tinted-theming/tinted-terminal) repository.
+
+---
+
 This is a [Tinted Theming] template for [xfce4-terminal].
 
 ## Installation
